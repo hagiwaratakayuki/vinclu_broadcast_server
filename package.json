@@ -1,0 +1,10 @@
+{
+  "name": "vinclu_brodcast_server",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node vinclu_broadcast_server.js"
+  },
+  "dependencies": {
+    "websocket": "*"
+  }
+}
